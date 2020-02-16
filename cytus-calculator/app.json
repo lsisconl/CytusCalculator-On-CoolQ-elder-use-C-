@@ -2,10 +2,10 @@
     "ret": 1,
     "apiver": 9,
     "name": "cytus计算器",
-    "version": "1.0.0",
-    "version_id": 1,
+    "version": "2.0.0",
+    "version_id": 2,
     "author": "siscon",
-    "description": "计算cytus音乐游戏的大p和小p个数",
+    "description": "功能实现\n1.计算cytus音乐游戏的大p和小p个数\n2.计算当MM时达到某一TP所需要的最少黑P",
     "event": [ // 可以修改 priority 来调整插件的优先级, 其它字段不可修改, 否则将无法使用
         {
             "id": 1003,
